@@ -5,3 +5,7 @@ Repositorio de prácticas de la asignatura Desarrollo de Aplicaciones para Telec
 - **Curso académico:** 2026/2027
 - **Universidad:** Universidad de Granada
 - **Nombre:** Silvia Daniela Arechúa Batalla
+
+
+## Entorno de trabajo
+Esta primera práctica se ha realizado utilizando GitHub Codespaces, el objetivo es familiazarnos con la herramienta de trabajo.
