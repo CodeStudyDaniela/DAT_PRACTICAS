@@ -8,4 +8,4 @@ Repositorio de prácticas de la asignatura Desarrollo de Aplicaciones para Telec
 
 
 ## Entorno de trabajo
-Esta primera práctica se ha realizado utilizando GitHub Codespaces, el objetivo es familiazarnos con la herramienta de trabajo.
+Esta primera práctica se ha realizado utilizando GitHub Codespaces, el objetivo es familiarizarnos con la herramienta de trabajo.
